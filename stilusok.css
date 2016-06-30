@@ -1,0 +1,35 @@
+body {
+  font-family: Verdana;
+  text-align: center;
+  color: #f97575;
+  background: linear-gradient(129deg, linen, burlywood);
+}
+
+section {
+  padding-bottom: 50px;
+}
+
+ol {
+  max-width: 110px;
+  margin: 0 auto;
+}
+
+table {
+  margin: 0 auto;
+  text-align: left;
+}
+
+img {
+  max-height: 310px;
+}
+
+a {
+  text-decoration: none;
+  background: #17559C;
+  color: #fff;
+  padding: 3px 6px;
+}
+
+a:hover {
+  background: #3F79BA;
+}
