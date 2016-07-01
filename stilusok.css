@@ -1,8 +1,8 @@
 body {
-  font-family: Verdana;
+  font-family: "Open Sans", sans-serif;
   text-align: center;
   color: #f97575;
-  background: linear-gradient(129deg, linen, burlywood);
+  background-image: linear-gradient(129deg, linen, peachpuff);
 }
 
 section {
@@ -25,11 +25,21 @@ img {
 
 a {
   text-decoration: none;
-  background: #17559C;
+  background-color: #17559C;
   color: #fff;
   padding: 3px 6px;
+  margin-right: 13px;
+  border: none;
 }
 
 a:hover {
-  background: #3F79BA;
+  background-color: #3F79BA;
+}
+
+.skool {
+  background-color: deeppink;
+}
+
+.skool:hover {
+  background-color: crimson;
 }
